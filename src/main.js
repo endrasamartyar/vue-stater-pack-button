@@ -20,7 +20,7 @@ new Vue({
 }).$mount('#app')
 
 new Vue({
-  el: "#app",
+  el: "#btn",
   data: {
     btn: {
       width: "200px",
