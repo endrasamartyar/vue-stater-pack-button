@@ -1,1 +1,1 @@
-# vue_stater_pack_button
+# vue-starter-pack-button
